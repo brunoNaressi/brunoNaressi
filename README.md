@@ -4,9 +4,9 @@
 - 🌱 I’m currently studying HTML and CSS
 - 📫 Contact me on brunonaressidefabris@gmail.com
 
-I have 20 years actually actually i'm studying Analysis and Systems Development (2/5)
-i'm searching work and studying to become a front end developer
-in my free time i like playing video games, watch animes and read mangas
+<p>I have 20 years actually actually i'm studying Analysis and Systems Development (2/5)</p>
+<p>I'm searching work and studying to become a front end developer</p>
+<p>In my free time i like playing video games watch animes and read mangas</p>
 
 <div align="center">
   <a href="https://github.com/brunoNaressi">
