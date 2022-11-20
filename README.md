@@ -1,4 +1,4 @@
-## Hello! I am Bruno Naressi 
+##  Hello! I am Bruno Naressi 
 
 - 🔭 I'm currently working with electronics in a technical assistance
 - 🌱 I’m currently studying HTML and CSS
