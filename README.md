@@ -7,8 +7,14 @@
 <p>I have 20 years actually actually i'm studying Analysis and Systems Development (2/5)</p>
 <p>I'm searching work and studying to become a front end developer</p>
 <p>In my free time i like playing video games watch animes and read mangas</p>
-
 <div align="center">
+  
+  
+  
+</div>
+<img align="center" alt="bruno-HTML" src="https://user-images.githubusercontent.com/102192778/202947905-9e18c541-d8de-4302-bf3e-27984315dabd.png">
+
+
   <a href="https://github.com/brunoNaressi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoNaressi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoNaressi&layout=compact&langs_count=7&theme=dracula"/>
