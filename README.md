@@ -11,8 +11,8 @@
   
   
   
-</div>
-<img align="center" alt="bruno-HTML" src="https://user-images.githubusercontent.com/102192778/202947905-9e18c541-d8de-4302-bf3e-27984315dabd.png">
+<!--</div>
+<img align="center" alt="bruno-HTML" src="https://user-images.githubusercontent.com/102192778/202947905-9e18c541-d8de-4302-bf3e-27984315dabd.png">-->
 
 
   <a href="https://github.com/brunoNaressi">
