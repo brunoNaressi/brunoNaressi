@@ -1,11 +1,10 @@
 ##  Hello! I am Bruno Naressi 
 
-- 🔭 I'm currently working with electronics in a technical assistance
-- 🌱 I’m currently studying HTML and CSS
+- 🎂 23 years old
+- 🤖 AI enthusiast — building and experimenting with LLMs and agents
+- ₿ Bitcoin & trading enthusiast
 - 📫 Contact me on brunonaressidefabris@gmail.com
 
-<p>I have 20 years actually actually i'm studying Analysis and Systems Development (2/5)</p>
-<p>I'm searching work and studying to become a front end developer</p>
 <p>In my free time i like playing video games watch animes and read mangas</p>
 <div align="center">
   
