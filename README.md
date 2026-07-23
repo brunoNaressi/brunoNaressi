@@ -19,8 +19,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoNaressi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="luffy-pic" height="150" style="border-radius:50px;" 
   src=https://user-images.githubusercontent.com/102192778/202914134-53282119-d927-4a5a-af64-af8f512b96d7.gif?style="border-radius:50px">
   
